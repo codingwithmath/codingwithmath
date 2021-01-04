@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is **Matheus Almeida** and I've been working as a Backend Developer since 2020. Currently I'm working with **Nodejs**. I like to say that I do Backend stuff, and that include learning, testing and implementing things that surround that world. I'm passionate about the process of learning, from the basic to the most abstract.
+My name is **Matheus Almeida** and I've been working as a Backend Developer since 2020. Currently I'm working with **Nodejs**. I like to say that I do Backend stuff, and that includes learning, testing and implementing things that surround that world. I'm passionate about the process of learning, from the basic to the most abstract.
 
 <center>
 <table>
