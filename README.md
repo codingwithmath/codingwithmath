@@ -1,4 +1,4 @@
-### Hi there :ant:
+### Hi there
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Almeida-1c1c1c?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-almeida1337/)](https://www.linkedin.com/in/matheus-almeida1337/) 
 [![Gmail Badge](https://img.shields.io/badge/-contatomatheuss@outlook.com-1c1c1c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatomatheuss@outlook.com)](mailto:contatomatheuss@outlook.com)
 
