@@ -1,11 +1,14 @@
 ### Hi there, I'm Matheus 🇧🇷
 
-🔨 Building things with Node.js and AWS at @Kitado
+🔨 Building things with Node.js and AWS at @Kitado <br>
 👨‍💻 Currently learning about Serverless Architecture and Typescript
 
-Find me in the web 🌎
+
+
+**Find me in the web** 🌎
+
 💼  [LinkedIn](https://www.linkedin.com/in/matheus-almeida1337/) <br>
-🖊️ [Blog](https://dev.to/codingwithmath)
+🖊️ [Blog](https://dev.to/codingwithmath) <br>
 
 <!--
 **codingwithmath/codingwithmath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
