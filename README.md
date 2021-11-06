@@ -1,7 +1,5 @@
 ### Hi there, I'm Matheus 🇧🇷
 
-[![Gmail Badge](https://img.shields.io/badge/-contatomatheuss@outlook.com-1c1c1c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatomatheuss@outlook.com)](mailto:contatomatheuss@outlook.com)
-
 🔨 Building things with Node.js and AWS at @Kitado
 👨‍💻 Currently learning about Serverless Architecture and Typescript
 
