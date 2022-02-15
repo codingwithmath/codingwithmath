@@ -1,7 +1,7 @@
 ### Hi there, I'm Matheus 🇧🇷
 
-🔨 Building things with Node.js and AWS at @Kitado <br>
-👨‍💻 Currently learning about Serverless Architecture and Typescript
+🔨 Building things with Node.js [DX.CO](https://www.somosdx.co) <br>
+👨‍💻 Currently learning about Typescript, GraphQL and NestJS
 
 
 
