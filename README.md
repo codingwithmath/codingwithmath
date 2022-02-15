@@ -1,6 +1,6 @@
 ### Hi there, I'm Matheus 🇧🇷
 
-🔨 Building things with Node.js [DX.CO](https://www.somosdx.co) <br>
+🔨 Building things with Node.js at [DX.CO](https://www.somosdx.co) <br>
 👨‍💻 Currently learning about Typescript, GraphQL and NestJS
 
 
