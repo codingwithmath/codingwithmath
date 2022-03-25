@@ -1,7 +1,7 @@
 ### Hi there, I'm Matheus 🇧🇷
 
-🔨 Building things with Javascript at [DX.CO](https://www.somosdx.co) <br>
-👨‍💻 Currently learning about Typescript and React ⚛️
+🔨 Building things with Typescript at [DX.CO](https://www.somosdx.co) <br>
+📖 Currently reading Object Oriented Design In Ruby (by Sandi Metz)
 
 
 
