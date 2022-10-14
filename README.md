@@ -1,7 +1,7 @@
 ### Hi there, I'm Matheus 🇧🇷
 
 🔨 Building things with React and Node.js at [DX.CO](https://www.somosdx.co) <br>
-📖 Currently reading Object Oriented Design In Ruby (by Sandi Metz)
+📖 Currently reading Refactoring (by Martin Fowler)
 
 
 
